@@ -75,7 +75,11 @@ body {
 }
 
 .header_section {
+  width: 100%;
   background-color: #ffffff;
+  position: fixed;
+  z-index: 9999;
+  
 }
 
 .header_section .container-fluid {
@@ -128,7 +132,7 @@ a:focus {
 }
 
 .custom_nav-container {
-  z-index: 99999;
+  z-index: 1;
   padding: 5px 0;
 }
 
