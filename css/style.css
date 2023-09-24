@@ -77,7 +77,7 @@ body {
 .header_section {
   padding-top: 10px;
   width: 95%;
-  background-color: #ffffff;
+  background-color: gray;
   position: fixed;
   z-index: 9999;
 }
