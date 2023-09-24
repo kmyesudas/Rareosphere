@@ -37,7 +37,7 @@
 @media (max-width: 768px) {
 
   .custom_nav-container {
-    padding-right: 100px;
+    padding-right: 50px;
   }
 
   .slider_section {
@@ -161,7 +161,7 @@
 @media (max-width: 376px) {
 
   .custom_nav-container {
-    padding-right: 40px;
+    padding-right: 5px;
   }
   .slider_section .detail-box h1 {
     font-size: 2rem;
