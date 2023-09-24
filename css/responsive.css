@@ -116,8 +116,8 @@
 
 @media (max-width: 576px) {
   .long_section {
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: 25px;
+    margin-right: 25px;
   }
 
 
@@ -132,7 +132,7 @@
 @media (max-width: 420px) {
   .long_section {
     margin-left: 0px;
-    margin-right: 0px;
+    margin-right: 15px;
   }
 
   .slider_section .detail-box .btn-box {
