@@ -131,8 +131,8 @@
 
 @media (max-width: 420px) {
   .long_section {
-    margin-left: 15px;
-    margin-right: 15px;
+    margin-left: 0px;
+    margin-right: 10px;
   }
 
   .slider_section .detail-box .btn-box {
