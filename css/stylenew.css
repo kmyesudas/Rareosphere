@@ -79,3 +79,9 @@
     text-decoration: none;
     color: #000;
 }
+
+/*logo section*/
+.logo{
+    width: 200px;
+    height: 60px;
+  }

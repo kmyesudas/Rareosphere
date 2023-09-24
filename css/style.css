@@ -848,3 +848,9 @@ a:focus {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+
+/*logo section*/
+.logo{
+  width: 200px;
+  height: 60px;
+}
