@@ -1,6 +1,14 @@
-@media (max-width: 1300px) {}
+@media (max-width: 1300px) {
+  .product-description {
+    height: 6em;
+  }
+}
 
-@media (max-width: 1120px) {}
+@media (max-width: 1120px) {
+  .product-description {
+    height: 7em;
+  }
+}
 
 @media (max-width: 992px) {
 
@@ -29,6 +37,9 @@
   .quote_btn-container {
     flex-direction: column;
     align-items: center;
+  }
+  .product-description {
+    height: 10em;
   }
 
 
@@ -118,6 +129,9 @@
   .info_form .social_box a {
     margin: 0 5px;
   }
+  .product-description {
+    height: 11em;
+  }
 
 }
 
@@ -131,10 +145,17 @@
   .info_section .info_links .info_links_menu {
     margin-bottom: 35px;
   }
+  .product-description {
+    height: 8em;
+  }
 
 }
 
-@media (max-width: 480px) {}
+@media (max-width: 480px) {
+  .product-description {
+    height: 11em;
+  }
+}
 
 @media (max-width: 420px) {
 
@@ -157,6 +178,9 @@
   .furniture_section .box .img-box {
     height: auto;
   }
+  .product-description {
+    height: 11em;
+  }
 }
 
 @media (max-width: 376px) {
@@ -167,10 +191,16 @@
   .slider_section .detail-box h1 {
     font-size: 2rem;
   }
+  .product-description {
+    height: 12em;
+  }
 }
 
 @media (min-width: 1200px) {
   .container {
     max-width: 1170px;
+  }
+  .product-description {
+    height: 5em;
   }
 }
