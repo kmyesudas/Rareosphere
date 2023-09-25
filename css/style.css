@@ -75,7 +75,7 @@ body {
 }
 
 .header_section {
-  padding-top: 5px;
+  padding-top: 15px;
   width: 100%;
   background-color: #ffffff;
   position: fixed;
@@ -93,7 +93,7 @@ body {
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 3px 15px;
-  margin: 10px 15px;
+  margin: 15px 15px;
   color: #272727;
   font-weight: bold;
   text-align: center;
@@ -156,7 +156,7 @@ a:focus {
   display: block;
   width: 32px;
   height: 4px;
-  background-color: #f51010;
+  background-color: #000000;
   border-radius: 15px;
   margin: 7px 0;
   -webkit-transition: all 0.3s;
@@ -171,7 +171,7 @@ a:focus {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #111210;
+  background-color: #f80404;
   border-radius: 15px;
   top: -10px;
   -webkit-transition: all 0.3s;
@@ -241,7 +241,7 @@ a:focus {
 
 .slider_section #customCarousel {
   width: 100%;
-  padding-top: 40px;
+  padding-top: 60px;
   z-index: 3;
 }
 
