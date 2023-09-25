@@ -2,11 +2,19 @@
   .product-description {
     height: 6em;
   }
+  .slider_section {
+    padding-top: 45px;
+    padding-bottom: 90px;
+  }
 }
 
 @media (max-width: 1120px) {
   .product-description {
     height: 7em;
+  }
+  .slider_section {
+    padding-top: 45px;
+    padding-bottom: 90px;
   }
 }
 
