@@ -731,7 +731,7 @@ a:focus {
 .info_section .info_links .info_links_menu a {
   color: #ffffff;
   -ms-flex-preferred-size: 50%;
-      flex-basis: 50%;
+      flex-basis: 100%;
 }
 
 .info_section .info_links .info_links_menu a:hover, .info_section .info_links .info_links_menu a.active {
