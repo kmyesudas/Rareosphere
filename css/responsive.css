@@ -203,4 +203,8 @@
   .product-description {
     height: 5em;
   }
+  .slider_section {
+    padding-top: 45px;
+    padding-bottom: 90px;
+  }
 }
