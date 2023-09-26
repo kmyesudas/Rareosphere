@@ -443,8 +443,8 @@ a:focus {
 .blog_section .box {
   margin-top: 55px;
   background-color: #ffffff;
-  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
-          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 0 10px 0 rgba(252, 2, 2, 0.5);
+            box-shadow: 0 0 10px 0 rgba(255, 0, 0, 0.5);
           text-align: center;
 }
 
