@@ -50,7 +50,7 @@
 }
 
 .product-image {
-    width: 95%;
+    width: 100%;
     height: auto;
     border-radius: 15px;
     object-fit: cover;
