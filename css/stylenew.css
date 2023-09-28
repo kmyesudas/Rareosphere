@@ -90,7 +90,7 @@
 .product-link {
     display: block;
     text-align: center;
-    padding: 10px 0;
+    /* padding: 10px 0; */
     text-decoration: none;
     color: #000;
 }
@@ -127,3 +127,10 @@
     color: #f89646;
     background-color: transparent
   }
+
+  .product-video{
+    width: 100%;
+    height: 100%;
+  }
+
+  
